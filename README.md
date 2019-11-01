@@ -1,5 +1,7 @@
 BitBar plugin displaying air pollution based on airly CAQI value. 
 
+![Airly value and dot in the bar](i.png?raw=true "Airly bit bar plugin")
+
 Dot colors and level threshold are taken from airly docs.
 
 How to run it: 
