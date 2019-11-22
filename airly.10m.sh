@@ -33,3 +33,5 @@ caqi=$(fetch_caqi_value $lat $lng)
 dot=$(get_caqi_dot $caqi)
 
 echo "$caqi $dot"
+echo "---"
+echo "Airly.eu | href=https://airly.eu/map/pl/#51.77108,19.24358,z7"
